@@ -30,6 +30,6 @@ public class Application  {
 	
 	public static void main(String[] args) throws InterruptedException {
 		SpringApplication.run(Application.class, args);
-		logger.info("邮件服务项目启动 ");
+		logger.info("邮件服务项目启动！！！");
 	}
 }
